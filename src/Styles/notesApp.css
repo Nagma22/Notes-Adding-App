@@ -1,0 +1,16 @@
+.header-title {
+    font-family : ui-sans-serif;
+    font-size: 70px;
+}
+
+.text-color {
+  color: white;  
+}
+
+.text-field {
+    border : 1px solid black !important;
+}
+
+.border-override {
+    border: none !important;
+}
